@@ -8,7 +8,7 @@ I’m Hang Yin, A web developer who loves writing Javascript.
 - :seedling: **I’m currently learning:** system design
 - :dancers: **I’m looking to collaborate on:** full stack projects
 - :speech_balloon: **Ask me about:** Javascript, memes, food
-- :zap: **Hobbies:** cooking, fitness, music, travel
+- :zap: **Hobbies:** movies, music, travel
 - :smile: **Pronouns:** he/him
 - :mailbox: How to reach me **hangyin2010@gmail.com**
 - :zap: Fun fact **It makes me so happy to make this page work! **
