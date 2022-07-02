@@ -6,14 +6,14 @@ I’m Hang Yin, A web developer who loves writing Javascript.
 - :telescope: **I’m currently working on:** Full Stack App
 - :seedling: **I’m currently learning:** system design
 - :dancers: **I’m looking to collaborate on:** full stack projects
-- :speech_balloon: **Ask me about:** Javascript, memes, food, shiba inu
-- :zap: **Hobbies:** cooking, fitness, music, travel, shiba inu
-- :smile: **Pronouns:** she/her
+- :speech_balloon: **Ask me about:** Javascript, memes, food
+- :zap: **Hobbies:** cooking, fitness, music, travel
+- :smile: **Pronouns:** he/him
 - :mailbox: How to reach me **hangyin2010@gmail.com**
 - :zap: Fun fact **It makes me so happy when my front and back are connected! **
 <h3 align=“left”>Connect with me:</h3>
 <p align=“left”>
-<a href=“https://www.linkedin.com/in/hang-yin-b40377a5/”><img alt=“LinkedIn” src=“https://img.shields.io/badge/-yulejessica-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yulejessica/”></a>
+<a href=“https://www.linkedin.com/in/hang-yin-b40377a5/”><img alt=“LinkedIn” src=“https://img.shields.io/badge/-hang-yin-b40377a5-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hang-yin-b40377a5/”></a>
 </p>
 <h3 align=“left”>Languages and Tools:</h3>
 [![My Skills](https://skillicons.dev/icons?i=javacript,html,css,react,nodejs,git,express,mysql,mongodb,postgres,aws)](https://skillicons.dev)
